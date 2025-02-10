@@ -12,5 +12,5 @@ I started my career as a **Sales Admin**, where I was responsible for generating
 - **Other Tools:**  Google BigQuery, Hugging Face, Ms.Excel, Pivot Table.
 
 ## 📫 Connect with Me
-- 🔗 LinkedIn: [https://www.linkedin.com/in/astarirut/](#)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/astarirut]
 - 📧 Email: [astarirut@gmail.com]
