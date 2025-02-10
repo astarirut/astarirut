@@ -1,5 +1,4 @@
-# Hello,
-I'm Astari Aprilia<br>
+# Astari Aprilia - Data Analyst<br>
 ---------------------------------------------------------------------------------
 
 ## 📈 My Journey
