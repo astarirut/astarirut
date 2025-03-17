@@ -12,7 +12,7 @@ Currently, I am learning **SQL and Power BI** to transition into a more data-dri
   -  [Salary Data Science](https://github.com/astarirut/SalaryDataScience)
   -  [Sales Data](https://github.com/astarirut/PersonalProject.git)
 
-- 📄 Know about my experiences [https://github.com/astarirut/Resume](https://github.com/astarirut/Resume)
+- 📄 Know about my experiences [CV](https://github.com/astarirut/Resume)
 
 ## 🛠️ Tech Stack & Tools
 - **Programming:** Python, SQL
