@@ -8,7 +8,9 @@ Currently, I am learning **SQL and Power BI** to transition into a more data-dri
 
 - 🌱 I’m currently learning **SQL** & **PowerBI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/astarirut/SalaryDataScience](https://github.com/astarirut/SalaryDataScience)
+- 👨‍💻 My projects:
+  -  [Salary Data Science](https://github.com/astarirut/SalaryDataScience)
+  -  [Sales Data](https://github.com/astarirut/PersonalProject.git)
 
 - 📄 Know about my experiences [https://github.com/astarirut/Resume](https://github.com/astarirut/Resume)
 
